@@ -3,7 +3,6 @@ Drum-Machine made in HTML/CSS/JS(JQUERY). You can load your own clips by changin
 
 !<h1>You can also find this project <a href="https://codepen.io/Mpal_/pen/yLGzMOZ">Here!</a> and execute it there.</h1>
 
--Simple project
--Getting to know HTML/CSS/JS(Babel) even more.
+>Getting to know HTML/CSS/JS(Babel) even more.
 
 ![ScreenShot](https://github.com/Georgios-Mpalanos/Drum-Machine/assets/115114124/42a61f75-c3d7-4a3b-b0eb-ceba682dcbfb)
